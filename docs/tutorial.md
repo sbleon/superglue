@@ -389,7 +389,7 @@ This version does the same thing, but we're using the function directly.
 
 ```js
 import React, { useContext } from 'react'
-import { useContent, Navigationcontext } from '@thoughtbot/superglue'
+import { useContent, NavigationContext } from '@thoughtbot/superglue'
 
 export default function GreetShow() {
   const {
